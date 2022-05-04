@@ -1,0 +1,16 @@
+D:\Games\ТА КПЫ 2сем\kp2\kp2\bin\Debug\net5.0\kp2.exe
+D:\Games\ТА КПЫ 2сем\kp2\kp2\bin\Debug\net5.0\kp2.deps.json
+D:\Games\ТА КПЫ 2сем\kp2\kp2\bin\Debug\net5.0\kp2.runtimeconfig.json
+D:\Games\ТА КПЫ 2сем\kp2\kp2\bin\Debug\net5.0\kp2.runtimeconfig.dev.json
+D:\Games\ТА КПЫ 2сем\kp2\kp2\bin\Debug\net5.0\kp2.dll
+D:\Games\ТА КПЫ 2сем\kp2\kp2\bin\Debug\net5.0\ref\kp2.dll
+D:\Games\ТА КПЫ 2сем\kp2\kp2\bin\Debug\net5.0\kp2.pdb
+D:\Games\ТА КПЫ 2сем\kp2\kp2\obj\Debug\net5.0\kp2.csproj.AssemblyReference.cache
+D:\Games\ТА КПЫ 2сем\kp2\kp2\obj\Debug\net5.0\kp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\ТА КПЫ 2сем\kp2\kp2\obj\Debug\net5.0\kp2.AssemblyInfoInputs.cache
+D:\Games\ТА КПЫ 2сем\kp2\kp2\obj\Debug\net5.0\kp2.AssemblyInfo.cs
+D:\Games\ТА КПЫ 2сем\kp2\kp2\obj\Debug\net5.0\kp2.csproj.CoreCompileInputs.cache
+D:\Games\ТА КПЫ 2сем\kp2\kp2\obj\Debug\net5.0\kp2.dll
+D:\Games\ТА КПЫ 2сем\kp2\kp2\obj\Debug\net5.0\ref\kp2.dll
+D:\Games\ТА КПЫ 2сем\kp2\kp2\obj\Debug\net5.0\kp2.pdb
+D:\Games\ТА КПЫ 2сем\kp2\kp2\obj\Debug\net5.0\kp2.genruntimeconfig.cache
